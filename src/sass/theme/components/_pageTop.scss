@@ -19,10 +19,13 @@ a.al-logo {
   font-size: 24px;
   font-family: $font-family;
   white-space: nowrap;
-  float: left;
   outline: none !important;
   line-height: 60px;
-
+  text-align: center;
+    img {
+        max-width: 200px;
+        
+    }
   span {
     color: $primary;
   }
@@ -77,7 +80,7 @@ a.collapse-menu-link {
   color: #fff;
   padding: 0;
   float: left;
-  margin: 11px 0 0 25px;
+  margin: 11px 0 25px 0;
 
   &:hover {
     text-decoration: none;

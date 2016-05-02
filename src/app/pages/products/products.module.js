@@ -16,10 +16,10 @@
           title: 'Products',
           templateUrl: 'app/pages/products/products.html',
           controller: 'ProfilePageCtrl',
-          sidebarMeta: {
-              icon: 'ion-pricetag',
-              order: 0,
-           }
+//          sidebarMeta: {
+//              icon: 'ion-pricetag',
+//              order: 0,
+//           }
         });
   }
 

@@ -9,11 +9,11 @@
 
   // main color scheme
   var colorScheme = {
-    primary: '#209e91',
-    info: '#2dacd1',
-    success: '#90b900',
-    warning: '#dfb81c',
-    danger: '#e85656',
+    primary: '#312624',
+    info: '#308eb9',
+    success: '#aeb05a',
+    warning: '#aa9e00',
+    danger: '#a85740',
   };
 
   // background color palette
